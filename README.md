@@ -1,6 +1,6 @@
 # asrock-b560i-hackintosh-ventura
 
-<center> <img src="https://user-images.githubusercontent.com/25664355/203054362-22d81801-603d-45a8-9d98-25d6fb251a4e.png" width="70%"></img>  </center>
+<center> <img src="https://user-images.githubusercontent.com/25664355/203054362-22d81801-603d-45a8-9d98-25d6fb251a4e.png" width="25%"></img>  </center>
 
 
 # Asrock-B560M-ITX-ac
